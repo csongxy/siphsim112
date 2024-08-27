@@ -1,0 +1,3 @@
+Praya Dubia, 10, 10, 35, 50, False, False, 176, 224, 230, 1000, 800, 700
+Physalia physalis (Portuguese man o' war), 10, 10, 35, 50, False, False, 176, 224, 230, 1000, 800, 700
+Dromalia alexandri, 10, 10, 35, 50, False, False, 176, 224, 230, 1000, 800, 700
