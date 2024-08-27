@@ -5,11 +5,11 @@ Project Name: Siphonophore Simulator
             --> Catch prey while staying in your natural habitat
             --> But be sure to keep an eye on your hunger and avoid predators
 How to Run:
-        --> open the 15_112_Tp1.py file and hit command + B, or whatever command to run the program
+        --> open the 15_112_Tp1.py file and hit command + B to run the program
 ShortCut Commands:
         --> c to activate/deactivate a mode in which the siphonophore can't die
         --> p to pause/unpause the simulation
         --> open the control panel to fiddle around with enviroment settings!
 Fonts/Libraries?:
-        --> Only installation of CMU Graphics should be necessary
-        --> Usage of math and random, which should pose no issue
+        --> CMU Graphics
+        --> math and random,
